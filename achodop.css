@@ -9,17 +9,17 @@ body {
 }
 
 .skrinshot1 {
-    width: 500px;
+    max-width: 500px;
     border-radius: 28px;
     box-shadow: 4px 4px 14px rgba(255, 255, 255, 0.25)
 }
 .skrinshot2 {
-    width: 500px;
+    max-width: 500px;
     border-radius: 28px;
     box-shadow: 4px 4px 14px rgba(255, 255, 255, 0.25)
 }
 .skrinshot3 {
-    width: 500px;
+    max-width: 500px;
     border-radius: 28px;
     box-shadow: 4px 4px 14px rgba(255, 255, 255, 0.25)
 }
